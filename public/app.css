@@ -8,11 +8,24 @@
     background-color: rgb(242, 241, 211);
   }
 
-#heading{
+  #heading{
     background-color: aqua;
     color: green;
-}
-  
+  }
+  #dashboard{
+    list-style: none;
+    max-width: 600px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  }
+  #dashboard li{
+    margin: 10px;
+    border: 1px solid #ccc;
+    max-width: 200px;
+    padding: 10px;
+  }
   /* Style the header */
   header {
     background-color: #000000;
