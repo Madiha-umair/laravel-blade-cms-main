@@ -70,9 +70,9 @@
         <button type="submit" class="w3-button w3-green">Edit Project</button>
 
     </form>
-
+    <div class="back_link">
     <a href="/console/projects/list">Back to Project List</a>
-
+    </div>
 </section>
 
 @endsection

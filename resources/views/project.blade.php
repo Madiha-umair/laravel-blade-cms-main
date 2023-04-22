@@ -34,9 +34,9 @@ Y')}}
             Skill: {{$project->skill->title}}
         </p>
     
-    
+        <div id="back_link"></div>
            <a href="/console/projects/list">Back to Home</a>
-        
+        </div>
            
        
        </section>

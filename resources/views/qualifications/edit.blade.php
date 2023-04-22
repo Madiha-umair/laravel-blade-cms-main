@@ -68,9 +68,9 @@
         <button type="submit" class="w3-button w3-green">Edit Qualification</button>
 
     </form>
-
+    <div class="back_link">
     <a href="/console/qualifications/list">Back to Type List</a>
-
+    </div>
 </section>
 
 @endsection

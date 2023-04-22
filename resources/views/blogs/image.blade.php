@@ -30,9 +30,10 @@
         <button type="submit" class="w3-button w3-green">Add Image</button>
 
     </form>
-
+    
+    <div class= "back_link">
     <a href="/console/blogs/list">Back to blog List</a>
-
+    </div>
 </section>
 
 @endsection

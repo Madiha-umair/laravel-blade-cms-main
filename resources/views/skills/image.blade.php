@@ -30,9 +30,9 @@
         <button type="submit" class="w3-button w3-green">Add Image</button>
 
     </form>
-
+    <div class="back_link"></div>
     <a href="/console/skills/list">Back to skill List</a>
-
+    </div>
 </section>
 
 @endsection

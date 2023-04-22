@@ -23,9 +23,9 @@
         <button type="submit" class="w3-button w3-green">Edit Skill</button>
 
     </form>
-
+    <div class="back_link"></div>
     <a href="/console/skills/list">Back to skill List</a>
-
+    </div>
 </section>
 
 @endsection

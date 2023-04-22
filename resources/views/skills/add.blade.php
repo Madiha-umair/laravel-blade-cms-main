@@ -23,9 +23,9 @@
         <button type="submit" class="w3-button w3-green">Add Type</button>
 
     </form>
-
+    <div class="back_link"></div>
     <a href="/console/types/list">Back to Type List</a>
-
+    </div>
 </section>
 
 @endsection

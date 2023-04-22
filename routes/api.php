@@ -85,8 +85,6 @@ Route::get('/experiences', function () {
 
 Route::get('/experiences/profile/{experience?}', function (Experience $experience) {
 
-
-
     return $experience;
 
 });
